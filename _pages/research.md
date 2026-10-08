@@ -6,5 +6,5 @@ layout: single
 author_profile: true
 
 ---
- 
+
 Stuff about my research.
