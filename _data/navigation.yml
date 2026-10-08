@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /aboutme/
   - title: "My Research"
-    -url: /myresearch/
+    url: /myresearch/
   - title: "How I Made This Site"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   
