@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Ava Lee Allen's Personal Website"
 title_separator          : "-"
 subtitle                 : #nvm
 name                     : "Ava Lee Allen"
@@ -115,8 +115,8 @@ analytics:
 # Site Author
 author:
   name             : "Ava Lee Allen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring Astrophysicits"
+  avatar           : "/assets/ava_headshot.jpeg"
+  bio              : "Post Bac Astrophysicist at Space Telescope Science Institute"
   location         : "Maryland"
   email            : "avaleeallen7@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
