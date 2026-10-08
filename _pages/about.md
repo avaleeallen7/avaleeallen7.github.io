@@ -1,5 +1,6 @@
 ---
-layout: single
-author_profile: true
+permalink: /aboutme/
+title: 'About Me'
 ---
  
+Stuff about me
