@@ -7,4 +7,4 @@ author_profile: true
 
 ---
  
-Stuff about my research
+Stuff about my research.
