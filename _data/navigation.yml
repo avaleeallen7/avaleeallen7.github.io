@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About Me"
-    url: https://github.com/avaleeallen7/avaleeallen7.github.io/_pages/about.md
+    url: /aboutme/
   - title: "My Research"
-    -url: https://github.com/avaleeallen7/avaleeallen7.github.io/_pages/research.md
+    -url: /research/
   - title: "How I Made This Site"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   
